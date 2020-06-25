@@ -18,5 +18,9 @@
 
 
 .nav-left a {
-  margin: auto 2em;
+  margin: auto 20px;
+}
+
+.nav-left a:hover {
+  font-weight: 600;
 }

@@ -1,0 +1,14 @@
+.footer {
+  background: red;
+  padding: 5%;
+  /* flex-grow: 20% 60% 20%; */
+  /* z-index:90; */
+  max-width: 2000px;
+  min-height: 70px;
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  align-items: center;
+  justify-content: space-between;
+
+}
