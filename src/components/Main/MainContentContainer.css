@@ -1,0 +1,20 @@
+.main-content-container {
+  width: 100vw;
+  height:100vh;
+  /* z-index:20; */
+}
+
+.main-content-container-content {
+  width: 1000px;
+  height:600px;
+  border: 1px solid #000;
+  position:relative;
+}
+
+.main-content-container-fixed {
+  position: sticky;
+  width:100px;
+  height:20px;
+  background: red;
+  top:10px;
+}
