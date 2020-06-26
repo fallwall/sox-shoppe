@@ -1,14 +1,16 @@
 .main-content-container {
   width: 100vw;
   height:100vh;
-  /* z-index:20; */
+  
 }
 
 .main-content-container-content {
-  width: 1000px;
-  height:600px;
+  width: 100vw;
+  height: 100vh;
   border: 1px solid #000;
   position:relative;
+  background-image: url(https://i.imgur.com/W7agM8L.jpg);
+  background-size: cover;
 }
 
 .main-content-container-fixed {
@@ -16,5 +18,11 @@
   width:100px;
   height:20px;
   background: red;
-  top:10px;
+  top: 100px;
+  left: 50px;
+}
+
+.main-content-container-unfixed {
+  margin-top: 15em;
+  text-align: center;
 }
