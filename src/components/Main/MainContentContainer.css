@@ -16,13 +16,15 @@
 .main-content-container-fixed {
   position: sticky;
   width:100px;
-  height:20px;
-  background: red;
+  height:100px;
   top: 100px;
   left: 50px;
+  font-weight: 600;
+  color:white;
 }
 
 .main-content-container-unfixed {
   margin-top: 15em;
   text-align: center;
+  color:white;
 }
