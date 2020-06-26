@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Summer Vibes",
+      "img": "https://i.imgur.com/ozfICey.jpg",
+      "link": "summer"
+    },
+    {
+      "id": 2,
+      "title": "Abstract Pattern",
+      "img": "https://i.imgur.com/3tagNkd.jpg",
+      "link": "abstract"
+    },
+    {
+      "id": 3,
+      "title": "Surfer & Skater",
+      "img": "https://i.imgur.com/W7agM8L.jpg",
+      "link": "surf"
+    },
+    {
+      "id": 4,
+      "title": "Galaxy Collection",
+      "img": "https://i.imgur.com/QgD4egQ.jpg",
+      "link": "galaxy"
+    }
+  ]
+}
