@@ -1,0 +1,21 @@
+[
+  {
+    "id": "PROD001",
+    "name": "Andy Warhol #1",
+    "collection": "Warhol",
+    "description": "pop art",
+    "sizes": {
+      "S": 499,
+      "M": 599
+    },
+    "image": "*.jpg"
+  },
+  {
+    "id": "PROD002",
+    "name": "Andy Warhol #2",
+    "collection": "Warhol",
+    "description": "pop art",
+    "price": 1199,
+    "image": "*.jpg"
+  }
+]

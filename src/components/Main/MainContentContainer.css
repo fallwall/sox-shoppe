@@ -7,7 +7,7 @@
 .main-content-container-content {
   width: 100vw;
   height: 100vh;
-  border: 1px solid #000;
+  border: 1px solid white;
   position:relative;
   background-image: url(https://i.imgur.com/W7agM8L.jpg);
   background-size: cover;
